@@ -1,0 +1,21 @@
+# Entornos Virtuales
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos compilados de Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / Empaquetado
+dist/
+build/
+*.egg-info/
+
+# Variables de entorno (donde guardas contraseñas o llaves API)
+.env
